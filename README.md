@@ -1,2 +1,3 @@
-# tsw2026 conflitto
+# tsw2026
 
+modifica a cado
